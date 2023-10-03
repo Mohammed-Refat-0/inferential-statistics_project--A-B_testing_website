@@ -13,7 +13,7 @@ converted\
 user_id\
 country\
 [Analyze_ab_test_results_notebook.py](https://github.com/Mohammed-Refat-0/inferential-statistics_project--A-B_testing_website/blob/main/Analyze_ab_test_results_notebook.py): the written python program\
-[Analyze_ab_test_results_notebook.ipynb](https://github.com/Mohammed-Refat-0/inferential-statistics_project--A-B_testing_website/blob/main/Analyze_ab_test_results_notebook.ipynb): a juypter notebook for the project. contains the used code, comments, results, and the reached conclusion
+[Analyze_ab_test_results_notebook.ipynb](https://github.com/Mohammed-Refat-0/inferential-statistics_project--A-B_testing_website/blob/main/Analyze_ab_test_results_notebook.ipynb): a juypter notebook for the project. contains the used code, comments, results, and the reached conclusion.
 ### Dependencies
 Python 3\
 Pandas\
